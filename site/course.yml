@@ -76,10 +76,10 @@ chunks:
 
         |            |          |          |
         | ---------- | -------- | -------- |
-        | [![](repocur:img/banner-hw01.png)](flow:hw01) <br/> **Due** 2016-10-01 |[![](repocur:img/banner-hw02.png)](flow:hw02) <br/> **Due** 2016-10-19 | [![](repocur:img/banner-hw03.png)](flow:hw03) <br/> **Due** 2016-10-26 |
-        | [![](repocur:img/banner-hw04.png)](flow:hw04) <br/> **Due** 2016-11-02 | [![](repocur:img/banner-hw05.png)](flow:hw05) <br/> **Due** 2016-11-09 | [![](repocur:img/banner-hw06.png)](flow:hw06) <br/> **Due** 2016-11-16 |
-        | [![](repocur:img/banner-hw07.png)](flow:hw07) <br/> **Due** 2016-11-25 | [![](repocur:img/banner-hw08.png)](flow:hw08) <br/> **Due** 2016-12-02 | [![](repocur:img/banner-hw09.png)](flow:hw09) <br/> **Due** 2016-12-09 |
-        | [![](repocur:img/banner-hw10.png)](flow:hw10) <br/> **Due** 2016-12-20 | [![](repocur:img/banner-hw11.png)](flow:hw11) <br/> **Due** 2017-01-04 |  [![](repocur:img/banner-hw12.png)](repocur:hw/hw12.pdf) <br/> **Due** 2016-01-13 |
+        | [![](repocur:img/banner-hw01.png)](flows:hw01) <br/> **Due** 2016-10-01 |[![](repocur:img/banner-hw02.png)](flows:hw02) <br/> **Due** 2016-10-19 | [![](repocur:img/banner-hw03.png)](flows:hw03) <br/> **Due** 2016-10-26 |
+        | [![](repocur:img/banner-hw04.png)](flows:hw04) <br/> **Due** 2016-11-02 | [![](repocur:img/banner-hw05.png)](flows:hw05) <br/> **Due** 2016-11-09 | [![](repocur:img/banner-hw06.png)](flows:hw06) <br/> **Due** 2016-11-16 |
+        | [![](repocur:img/banner-hw07.png)](flows:hw07) <br/> **Due** 2016-11-25 | [![](repocur:img/banner-hw08.png)](flows:hw08) <br/> **Due** 2016-12-02 | [![](repocur:img/banner-hw09.png)](flows:hw09) <br/> **Due** 2016-12-09 |
+        | [![](repocur:img/banner-hw10.png)](flows:hw10) <br/> **Due** 2016-12-20 | [![](repocur:img/banner-hw11.png)](flows:hw11) <br/> **Due** 2017-01-04 |  [![](repocur:img/banner-hw12.png)](repocur:hw/hw12.pdf) <br/> **Due** 2016-01-13 |
        
        
         ### Python Installation
